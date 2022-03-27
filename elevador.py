@@ -17,8 +17,6 @@ desce:para descer um andar(não deve descer se estiver no térreo)
 
 encapsular todos os atributos da classe
 """
-from xml.sax.handler import property_interning_dict
-
 
 acao=''
 class Elevador:
